@@ -1,5 +1,9 @@
 This is File B
 This is a change to the file.
 
+<<<<<<< HEAD
 Changed made to FIle B on Sunday Evening 18.18
 Changes at 18.26
+=======
+Change1 made on Sunday
+>>>>>>> FeatureA
